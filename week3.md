@@ -1,5 +1,5 @@
 #     CP3402 week 2
-       Name: LiPeipei    Student ID: 14334347
+Name: LiPeipei    Student ID: 14334347
 
 ##    Overview
 This week, we're focusing on learning about the WordPress Content Management System (CMS). Our primary learning resource is LinkedIn Learning's “WordPress Basic Training” course:
